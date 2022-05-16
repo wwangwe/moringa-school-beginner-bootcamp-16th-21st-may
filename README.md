@@ -39,7 +39,12 @@
     <title>Document</title>
     <link rel="stylesheet" href="./CSS/style.css">
 </head>
+<body>
+  <!-- body goes here -->
+</body>
   </html>
 ```
+
+### HTML 
 
 
