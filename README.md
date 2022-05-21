@@ -6,7 +6,7 @@ The project we are going to show case mainly covers basic HTML, CSS and JavaScri
 
 - [WhatsApp Group](https://bit.ly/moringa-bootcamp)
 - [Team Battle Submission](https://forms.gle/T2M69gu2oPLM35c29)
-- [Feedback Form](bit.ly/3kGbCYE)
+- [Feedback Form](https://bit.ly/3kGbCYE)
 
 ## HTML
 
